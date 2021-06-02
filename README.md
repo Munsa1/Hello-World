@@ -1,18 +1,17 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello World Project
 
-> One paragraph statement about the project.
+> My fist microverse module 1 project.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+This is a simple site which displays the text "Hello Microverse".
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- Css
 
 ## Live Demo
 
@@ -43,17 +42,12 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Munsa1](https://github.com/munsa1)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
 
 ## 🤝 Contributing
 
